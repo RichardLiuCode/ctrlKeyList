@@ -15,14 +15,14 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + K````| | | Hyperlink|
 |````Ctrl + L````|
 |````Ctrl + M````|
-|````Ctrl + N````|
+|````Ctrl + N````| | New window | 
 |````Ctrl + O````|
 |````Ctrl + P````| Print | Print Page | Print document |
 |````Ctrl + Q````|
 |````Ctrl + R````| | Reload |
 |````Ctrl + S````| Save | Save page |
 |````Ctrl + T````| |New tab|
-|````Ctrl + U````| | view source |
+|````Ctrl + U````| | view source | Underline |
 |````Ctrl + V````| Paste |
 |````Ctrl + W````|
 |````Ctrl + X````| Cut |
