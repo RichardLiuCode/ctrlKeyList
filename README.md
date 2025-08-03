@@ -5,7 +5,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + A````| Select all |
 |````Ctrl + B````| | |Bold text|
 |````Ctrl + C````| Copy |
-|````Ctrl + D````|
+|````Ctrl + D````| | Add to bookmark |
 |````Ctrl + E````|
 |````Ctrl + F````| | Search |
 |````Ctrl + G````|
