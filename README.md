@@ -20,7 +20,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + P````| Print |
 |````Ctrl + Q````|
 |````Ctrl + R````| | Reload |
-|````Ctrl + S````|
+|````Ctrl + S````| Save | Save page |
 |````Ctrl + T````| |New tab|
 |````Ctrl + U````| | view source |
 |````Ctrl + V````| Paste |
