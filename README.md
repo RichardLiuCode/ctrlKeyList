@@ -148,7 +148,6 @@
     <tr>
         <td> Ctrl + Z </td>
         <td colspan="3">Undo</td>
-        
     </tr>
 </table>
 
