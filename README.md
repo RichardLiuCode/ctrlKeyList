@@ -1,7 +1,7 @@
 # Ctrl Key List
 A list of all the function of the ctrl key of the keyboard
-|Key|Function|
-|-|-|
+|Key|Function|Function in browser|Function in word or google docs |
+|-|-|-|-|
 |````Ctrl + A````| Select All |
 |````Ctrl + B````| 
 |````Ctrl + C````| Copy |
@@ -19,7 +19,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + O````|
 |````Ctrl + P````| Print |
 |````Ctrl + Q````|
-|````Ctrl + R````| Reload |
+|````Ctrl + R````| | Reload |
 |````Ctrl + S````|
 |````Ctrl + T````|
 |````Ctrl + U````| view source |
