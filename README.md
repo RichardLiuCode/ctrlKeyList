@@ -2,7 +2,7 @@
 A list of all the function of the ctrl key of the keyboard
 |Key|Function|Function in browser|Function in word or google docs |
 |-|-|-|-|
-|````Ctrl + A````| Select All |
+|````Ctrl + A````| Select all |
 |````Ctrl + B````| 
 |````Ctrl + C````| Copy |
 |````Ctrl + D````|
@@ -21,8 +21,8 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + Q````|
 |````Ctrl + R````| | Reload |
 |````Ctrl + S````|
-|````Ctrl + T````|
-|````Ctrl + U````| view source |
+|````Ctrl + T````| |New tab|
+|````Ctrl + U````| | view source |
 |````Ctrl + V````| Paste |
 |````Ctrl + W````|
 |````Ctrl + X````| Cut |
