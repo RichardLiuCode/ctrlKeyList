@@ -26,5 +26,5 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + V````| Paste |
 |````Ctrl + W````| |Close current tab |
 |````Ctrl + X````| Cut |
-|````Ctrl + Y````| Redo |
-|````Ctrl + Z````| Undo |
+|````Ctrl + Y````| Redo | Redo | Redo |
+|````Ctrl + Z````| Undo | Undo | Undo |
