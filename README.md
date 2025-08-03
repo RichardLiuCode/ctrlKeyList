@@ -12,7 +12,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + H````|
 |````Ctrl + I````|
 |````Ctrl + J````| | Open downloads |
-|````Ctrl + K````| | | Hyperlink|
+|````Ctrl + K````| | | Insert hyperlink|
 |````Ctrl + L````|
 |````Ctrl + M````|
 |````Ctrl + N````| | New window | 
@@ -22,9 +22,9 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + R````| | Reload |
 |````Ctrl + S````| Save | Save page |
 |````Ctrl + T````| |New tab|
-|````Ctrl + U````| | view source | Underline |
+|````Ctrl + U````| | view source | Underline text|
 |````Ctrl + V````| Paste |
-|````Ctrl + W````|
+|````Ctrl + W````| |Close current tab |
 |````Ctrl + X````| Cut |
 |````Ctrl + Y````| Redo |
 |````Ctrl + Z````| Undo |
