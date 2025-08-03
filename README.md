@@ -72,7 +72,7 @@
     <tr>
         <td> Ctrl + L </td>
         <td></td>
-        <td></td>
+        <td>Select URL</td>
         <td></td>
     </tr>
     <tr>
