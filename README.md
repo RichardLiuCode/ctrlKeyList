@@ -1,6 +1,5 @@
-# Ctrl Key List
-A list of all the function of the ctrl key of the keyboard
-
+<h1>Ctrl Key List</h1>
+<p>A list of all the function of the ctrl key of the keyboard</p>
 <table>
     <tr>
         <td>Key</td>
