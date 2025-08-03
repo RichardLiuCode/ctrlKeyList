@@ -1,7 +1,7 @@
 # ctrlKeyList
 A list of all the function of the ctrl key of the keyboard
-|Key|Function|Special function in word or google docs |
-|-|-|-|
+|Key|Function|
+|-|-|
 |````Ctrl + A````| Select All |
 |````Ctrl + B````| 
 |````Ctrl + C````| Copy |
