@@ -2,10 +2,10 @@
 <p>A list of all the function of the ctrl key of the keyboard</p>
 <table>
     <tr>
-        <td>Key</td>
-        <td>Function</td>
-        <td>Function in browser</td>
-        <td>Function in word or google docs</td>
+        <th>Key</th>
+        <th>Function</th>
+        <th>Function in browser</th>
+        <th>Function in word or google docs</th>
     </tr>
     <tr>
         <td> Ctrl + A </td>
