@@ -12,7 +12,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + H````|
 |````Ctrl + I````|
 |````Ctrl + J````|
-|````Ctrl + K````|
+|````Ctrl + K````| | | Hyperlink|
 |````Ctrl + L````|
 |````Ctrl + M````|
 |````Ctrl + N````|
