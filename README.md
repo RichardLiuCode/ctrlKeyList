@@ -21,9 +21,7 @@ A list of all the function of the ctrl key of the keyboard
     </tr>
     <tr>
         <td> Ctrl + C </td>
-        <td>Copy</td>
-        <td></td>
-        <td></td>
+        <td colspan="3">Copy</td>
     </tr>
     <tr>
         <td> Ctrl + D </td>
