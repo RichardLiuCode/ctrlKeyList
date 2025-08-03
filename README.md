@@ -13,7 +13,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + I````| | | Italic text |
 |````Ctrl + J````| | Open downloads |
 |````Ctrl + K````| | | Insert hyperlink|
-|````Ctrl + L````|
+|````Ctrl + L````| 
 |````Ctrl + M````|
 |````Ctrl + N````| | New window | 
 |````Ctrl + O````|
