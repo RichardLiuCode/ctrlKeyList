@@ -23,7 +23,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + S````| Save | Save page |
 |````Ctrl + T````| |New tab|
 |````Ctrl + U````| | view source | Underline text|
-|````Ctrl + V````| Paste |
+|````Ctrl + V````| Paste | Paste | Paste |
 |````Ctrl + W````| |Close current tab |
 |````Ctrl + X````| Cut |
 |````Ctrl + Y````| Redo | Redo | Redo |
