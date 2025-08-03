@@ -1,4 +1,4 @@
-# ctrlKeyList
+# Ctrl Key List
 A list of all the function of the ctrl key of the keyboard
 |Key|Function|
 |-|-|
