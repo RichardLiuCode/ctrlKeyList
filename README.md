@@ -10,7 +10,7 @@ A list of all the function of the ctrl key of the keyboard
 |````Ctrl + F````| | Search |
 |````Ctrl + G````|
 |````Ctrl + H````| | History |
-|````Ctrl + I````|
+|````Ctrl + I````| | | Italic text |
 |````Ctrl + J````| | Open downloads |
 |````Ctrl + K````| | | Insert hyperlink|
 |````Ctrl + L````|
