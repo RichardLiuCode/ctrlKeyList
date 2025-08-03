@@ -71,8 +71,7 @@
     </tr>
     <tr>
         <td> Ctrl + L </td>
-        <td></td>
-        <td>Select URL</td>
+        <td colspan="2">Focus on URL input</td>
         <td></td>
     </tr>
     <tr>
