@@ -9,9 +9,7 @@
     </tr>
     <tr>
         <td> Ctrl + A </td>
-        <td>Select all</td>
-        <td>Select all</td>
-        <td>Select all</td>
+        <td colspan="3">Select all</td>
     </tr>
     <tr>
         <td> Ctrl + B </td>
