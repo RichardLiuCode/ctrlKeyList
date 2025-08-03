@@ -2,7 +2,7 @@
 A list of all the function of the ctrl key of the keyboard
 |Key|Function|Function in browser|Function in word or google docs |
 |-|-|-|-|
-|````Ctrl + A````| Select all |
+|````Ctrl + A````| Select all | Select all | Select all |
 |````Ctrl + B````| | |Bold text|
 |````Ctrl + C````| Copy |
 |````Ctrl + D````| | Add to bookmark |
