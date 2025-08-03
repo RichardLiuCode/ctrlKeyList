@@ -99,9 +99,7 @@ A list of all the function of the ctrl key of the keyboard
     </tr>
     <tr>
         <td> Ctrl + P </td>
-        <td>Print</td>
-        <td>Print Page</td>
-        <td>Print document</td>
+        <td colspan="3">Print</td>
     </tr>
     <tr>
         <td> Ctrl + Q </td>
@@ -117,9 +115,7 @@ A list of all the function of the ctrl key of the keyboard
     </tr>
     <tr>
         <td> Ctrl + S </td>
-        <td>Save</td>
-        <td>Save page</td>
-        <td></td>
+        <td colspan="3">Save</td>
     </tr>
     <tr>
         <td> Ctrl + T </td>
@@ -135,9 +131,7 @@ A list of all the function of the ctrl key of the keyboard
     </tr>
     <tr>
         <td> Ctrl + V </td>
-        <td>Paste</td>
-        <td>Paste</td>
-        <td>Paste</td>
+        <td colspan="3">Paste</td>
     </tr>
     <tr>
         <td> Ctrl + W </td>
@@ -147,20 +141,16 @@ A list of all the function of the ctrl key of the keyboard
     </tr>
     <tr>
         <td> Ctrl + X </td>
-        <td>Cut</td>
-        <td></td>
-        <td></td>
+        <td colspan="3">Cut</td>
     </tr>
     <tr>
         <td> Ctrl + Y </td>
-        <td>Redo</td>
-        <td>Redo</td>
-        <td>Redo</td>
+        <td colspan="3">Redo</td>
     </tr>
     <tr>
         <td> Ctrl + Z </td>
-        <td>Undo</td>
-        <td>Undo</td>
-        <td>Undo</td>
+        <td colspan="3">Undo</td>
+        
     </tr>
 </table>
+
