@@ -49,7 +49,7 @@
         <td> Ctrl + H </td>
         <td></td>
         <td>History</td>
-        <td>Search and replace to</td>
+        <td>Search and replace</td>
     </tr>
     <tr>
         <td> Ctrl + I </td>
