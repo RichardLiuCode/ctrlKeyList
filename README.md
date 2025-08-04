@@ -66,13 +66,13 @@
     <tr>
         <td> Ctrl + K </td>
         <td></td>
-        <td>Focus on URL input</td>
+        <td>Focus on URL input field</td>
         <td>Insert hyperlink</td>
     </tr>
     <tr>
         <td> Ctrl + L </td>
         <td></td>
-        <td>Focus on URL input</td>
+        <td>Focus on URL input field</td>
         <td></td>
     </tr>
     <tr>
