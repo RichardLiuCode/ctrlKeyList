@@ -248,7 +248,7 @@
     <tr>
         <td> Ctrl + Shift + O </td>
         <td></td>
-        <td></td>
+        <td>Open Favorites</td>
         <td></td>
     </tr>
     <tr>
