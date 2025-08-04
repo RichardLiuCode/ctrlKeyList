@@ -163,12 +163,158 @@
     </tr>
     <tr>
         <td> Ctrl + Shift + A </td>
-        <td colspan="3">Select all</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td> Ctrl + Shift + B </td>
-        <td>Bold text</td>
         <td></td>
-        <td>Bold text</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + C </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + D </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + E </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + F </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + G </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + H </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + I </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + J </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + K </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + L </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + M </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + N </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + O </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + P </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + Q </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + R </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + S </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + T </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + U </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + V </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + W </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + X </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + Y </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + Z </td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
