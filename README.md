@@ -89,8 +89,7 @@
     </tr>
     <tr>
         <td> Ctrl + O </td>
-        <td></td>
-        <td  colspan="2">Open a file</td>
+        <td  colspan="3">Open a file</td>
     </tr>
     <tr>
         <td> Ctrl + P </td>
