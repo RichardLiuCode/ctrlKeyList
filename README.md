@@ -242,7 +242,7 @@
     <tr>
         <td> Ctrl + Shift + N </td>
         <td></td>
-        <td></td>
+        <td>New inPrivate window</td>
         <td></td>
     </tr>
     <tr>
