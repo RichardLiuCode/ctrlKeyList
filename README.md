@@ -122,7 +122,7 @@
     <tr>
         <td> Ctrl + U </td>
         <td></td>
-        <td>view source</td>
+        <td>view page source</td>
         <td>Underline text</td>
     </tr>
     <tr>
