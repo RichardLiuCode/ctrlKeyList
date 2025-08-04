@@ -1,5 +1,6 @@
 <h1>Ctrl Key List</h1>
 <p>A list of all the function of the ctrl key of the keyboard</p>
+<p>2025</p>
 <table>
     <tr>
         <th>Key</th>
@@ -150,6 +151,10 @@
         <td></td>
         <td>Switch to next tab</td>
         <td></td>
+    </tr>
+    <tr>
+        <td> Ctrl + Esc </td>
+        <td colspan="3">Start</td>
     </tr>
 </table>
 
