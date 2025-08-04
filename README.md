@@ -1,5 +1,5 @@
 <h1>Ctrl Key List</h1>
-<p>A list of all the function of the ctrl key of the keyboard</p>
+<p>A list of all the function of the ctrl key on the keyboard</p>
 <p>2025</p>
 <table>
     <tr>
