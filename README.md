@@ -91,7 +91,7 @@
         <td> Ctrl + O </td>
         <td></td>
         <td></td>
-        <td>word: Open a file</td>
+        <td>Word: Open a file</td>
     </tr>
     <tr>
         <td> Ctrl + P </td>
