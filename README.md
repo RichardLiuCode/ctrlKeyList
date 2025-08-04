@@ -13,7 +13,7 @@
     </tr>
     <tr>
         <td> Ctrl + B </td>
-        <td></td>
+        <td>Bold text</td>
         <td></td>
         <td>Bold text</td>
     </tr>
