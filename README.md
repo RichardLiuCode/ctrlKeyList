@@ -277,7 +277,7 @@
     <tr>
         <td> Ctrl + Shift + S </td>
         <td></td>
-        <td></td>
+        <td>Screenshot</td>
         <td></td>
     </tr>
     <tr>
