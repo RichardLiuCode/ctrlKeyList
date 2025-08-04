@@ -153,3 +153,22 @@
     </tr>
 </table>
 
+<h2>Ctrl + Shift</h2>
+<table>
+     <tr>
+        <th>Key</th>
+        <th>Function</th>
+        <th>Function in browser</th>
+        <th>Function in word or google docs</th>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + A </td>
+        <td colspan="3">Select all</td>
+    </tr>
+    <tr>
+        <td> Ctrl + Shift + B </td>
+        <td>Bold text</td>
+        <td></td>
+        <td>Bold text</td>
+    </tr>
+</table>
