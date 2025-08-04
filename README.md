@@ -212,7 +212,7 @@
     <tr>
         <td> Ctrl + Shift + I </td>
         <td></td>
-        <td></td>
+        <td>Open developer tool</td>
         <td></td>
     </tr>
     <tr>
