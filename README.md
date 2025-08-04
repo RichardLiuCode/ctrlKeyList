@@ -150,7 +150,7 @@
      <tr>
         <td> Ctrl + Tab </td>
         <td></td>
-        <td>Switch tab</td>
+        <td>Switch to next tab</td>
         <td></td>
     </tr>
 </table>
