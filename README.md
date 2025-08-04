@@ -283,7 +283,7 @@
     <tr>
         <td> Ctrl + Shift + T </td>
         <td></td>
-        <td></td>
+        <td>Open recently closed tab</td>
         <td></td>
     </tr>
     <tr>
