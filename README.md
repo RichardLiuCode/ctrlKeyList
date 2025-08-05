@@ -322,4 +322,8 @@
         <td></td>
         <td></td>
     </tr>
+     <tr>
+        <td> Ctrl + Shift + ESC </td>
+        <td colspan="3">Open Task Manager</td>
+    </tr>
 </table>
