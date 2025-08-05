@@ -201,7 +201,7 @@
     <tr>
         <td> Ctrl + Shift + F </td>
         <td></td>
-        <td></td>
+        <td>Full screen</td>
         <td></td>
     </tr>
     <tr>
