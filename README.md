@@ -45,7 +45,7 @@
     <tr>
         <td> Ctrl + G </td>
         <td></td>
-        <td></td>
+        <td>Show bookmarks</td>
         <td></td>
     </tr>
     <tr>
