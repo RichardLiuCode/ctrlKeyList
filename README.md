@@ -4,11 +4,11 @@
 <table>
     <tr>
         <th>
-            <h1>Ctrl</h1>
+            <h1> Ctrl </h1>
         </th>
     </tr>
     <tr>
-        <th>________</th>
+        <th>_____________________</th>
     </tr>
 </table>
 <br>
