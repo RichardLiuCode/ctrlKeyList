@@ -296,9 +296,7 @@
     </tr>
     <tr>
         <td> Ctrl + Shift + V </td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="3">Paste with text</td>
     </tr>
     <tr>
         <td> Ctrl + Shift + W </td>
