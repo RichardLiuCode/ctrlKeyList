@@ -3,6 +3,17 @@
 <p>2025</p>
 <table>
     <tr>
+        <th>
+            <h1>Ctrl</h1>
+        </th>
+    </tr>
+    <tr>
+        <th>________</th>
+    </tr>
+</table>
+<br>
+<table>
+    <tr>
         <th>Key</th>
         <th>Function</th>
         <th>Function in browser</th>
