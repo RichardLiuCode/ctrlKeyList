@@ -273,7 +273,7 @@
     <tr>
         <td> Ctrl + Shift + R </td>
         <td></td>
-        <td></td>
+        <td>Reload</td>
         <td></td>
     </tr>
     <tr>
