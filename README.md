@@ -1,17 +1,8 @@
 <h1>Ctrl Key List</h1>
 <p>A list of all the function of the ctrl key on the keyboard</p>
 <p>2025</p>
-<table>
-    <tr>
-        <th>
-            <h1> Ctrl </h1>
-        </th>
-    </tr>
-    <tr>
-        <th>_____________________</th>
-    </tr>
-</table>
-<br>
+
+
 <table>
     <tr>
         <th>Key</th>
